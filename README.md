@@ -1,3 +1,5 @@
+![Learning Python](https://img.shields.io/badge/Learning-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
 # 🐍🗡️Python Training Ground🗡️🐍
 
 Welcome to my python training ground repo! 👋
@@ -18,3 +20,4 @@ This repo is a collection of all my small python projects as I slowly but steadi
 ---
 
 *More projects loading...*
+
